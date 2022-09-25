@@ -1,2 +1,3 @@
-# django-aws-pany
-A Django web template repository that is production ready for AWS S3 to host static and media files and PythonAnywhere to host database.
+# Template for Django with AWS S3 static/media and PythonAnywhere Database Backends
+
+## Getting Started
