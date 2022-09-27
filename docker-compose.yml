@@ -20,9 +20,9 @@ services:
       - SQL_PORT=5432
       - DATABASE=postgres
       - USE_S3=TRUE
-      - AWS_ACCESS_KEY_ID=AKIA3TJMTUZLIAIV5F5Y
-      - AWS_SECRET_ACCESS_KEY=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
-      - AWS_STORAGE_BUCKET_NAME=di2ag-static
+      - AWS_ACCESS_KEY_ID=UpdateMe
+      - AWS_SECRET_ACCESS_KEY=UpdateMe
+      - AWS_STORAGE_BUCKET_NAME=UpdateMe
     depends_on:
       - db
   db:
